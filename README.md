@@ -81,30 +81,6 @@ Später wird das Skript über eine `config.json` gesteuert:
 
 ---
 
-## 📂 Projektstruktur
-
-```text
-M122-LB2_Schmid/
-├── context/                 # Projekt-Rapporte und Anforderungen
-├── docs/                    # Dokumentation (Setup, Bedienung, Tests)
-├── logs/                    # (Generiert) Logfiles
-├── tests/                   # Testskripte
-├── BackupAutomation.ps1     # Hauptskript
-├── config.json              # (Geplant) Konfigurationsdatei
-└── README.md                # Projektübersicht
-```
-
----
-
-## 📝 Dokumentation
-
-Detaillierte Informationen findest du in den folgenden Dokumenten (in Arbeit):
-*   [📄 Setup & Installation](docs/Setup.md)
-*   [📄 Bedienungsanleitung](docs/Bedienung.md)
-*   [📄 Testprotokoll](docs/Testprotokoll.md)
-
----
-
 ## 👤 Autor
 
 **Robin Schmid**  
