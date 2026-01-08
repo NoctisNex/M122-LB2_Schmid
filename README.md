@@ -85,7 +85,7 @@ Später wird das Skript über eine `config.json` gesteuert:
 
 **Robin Schmid**  
 Modul 122 - LB2 Praxisarbeit  
-Datum: Dezember 2025
+Datum: Januar 2026
 
 ---
 
